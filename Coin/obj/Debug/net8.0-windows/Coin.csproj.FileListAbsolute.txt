@@ -1,0 +1,17 @@
+C:\Users\okiri\source\repos\coin\Coin\bin\Debug\net8.0-windows\Coin.exe
+C:\Users\okiri\source\repos\coin\Coin\bin\Debug\net8.0-windows\Coin.deps.json
+C:\Users\okiri\source\repos\coin\Coin\bin\Debug\net8.0-windows\Coin.runtimeconfig.json
+C:\Users\okiri\source\repos\coin\Coin\bin\Debug\net8.0-windows\Coin.dll
+C:\Users\okiri\source\repos\coin\Coin\bin\Debug\net8.0-windows\Coin.pdb
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.Form1.resources
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.csproj.GenerateResource.cache
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.AssemblyInfoInputs.cache
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.AssemblyInfo.cs
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.csproj.CoreCompileInputs.cache
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.dll
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\refint\Coin.dll
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.pdb
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.genruntimeconfig.cache
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\ref\Coin.dll
+C:\Users\okiri\source\repos\coin\Coin\obj\Debug\net8.0-windows\Coin.Form2.resources
